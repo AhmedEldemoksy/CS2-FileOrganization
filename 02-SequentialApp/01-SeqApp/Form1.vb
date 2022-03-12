@@ -45,15 +45,11 @@
                 money_now = Val(TextBox4.Text)
                 sale_price = Val(TextBox5.Text)
                 total_price = Val(TextBox6.Text)
-                If (Loc(1) <> position - 1) Then
-                    WriteLine(2, num, nam, unit, money_now, sale_price, total_price)
-                End If
+                WriteLine(2, num, nam, unit, money_now, sale_price, total_price)
             End If
             If num <> Val(TextBox1.Text) Then
                 position = Loc(1)
-                If (Loc(1) <> position - 1) Then
-                    WriteLine(2, num, nam, unit, money_now, sale_price, total_price)
-                End If
+                WriteLine(2, num, nam, unit, money_now, sale_price, total_price)
             End If
         Loop
         FileClose(2)
@@ -116,14 +112,37 @@
         Loop
         FileClose(1)
     End Sub
-
+    Private Sub Button4_Click(sender As Object, e As EventArgs) Handles Button4.Click
+        FileOpen(1, "d:\a.txt", OpenMode.Input)
+        FileOpen(2, "d:\b.txt", OpenMode.Append)
+        Do While Not EOF(1)
+            Input(1, num)
+            Input(1, nam)
+            Input(1, unit)
+            Input(1, money_now)
+            Input(1, sale_price)
+            Input(1, total_price)
+            If num <> Val(TextBox1.Text) Then
+                position = Loc(1)
+                WriteLine(2, num, nam, unit, money_now, sale_price, total_price)
+            End If
+        Loop
+        FileClose(2)
+        FileClose(1)
+        Kill("d:\a.txt")
+        Rename("d:\b.txt", "d:\a.txt")
+        clear()
+    End Sub
     Private Sub Button5_Click(sender As Object, e As EventArgs) Handles Button5.Click
         End
-
     End Sub
-
     Private Sub Button1_MouseUp(sender As Object, e As MouseEventArgs) Handles Button1.MouseUp
         view()
-
+    End Sub
+    Private Sub Button3_MouseUp(sender As Object, e As MouseEventArgs) Handles Button3.MouseUp
+        view()
+    End Sub
+    Private Sub Button4_MouseUp(sender As Object, e As MouseEventArgs) Handles Button4.MouseUp
+        view()
     End Sub
 End Class

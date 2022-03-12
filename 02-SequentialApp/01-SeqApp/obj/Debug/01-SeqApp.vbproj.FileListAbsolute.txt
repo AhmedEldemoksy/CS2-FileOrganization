@@ -8,3 +8,14 @@ D:\MET\2022\Term2\CS2\F)\LAb\01-SeqApp\01-SeqApp\obj\Debug\01-SeqApp.vbproj.Gene
 D:\MET\2022\Term2\CS2\F)\LAb\01-SeqApp\01-SeqApp\obj\Debug\01-SeqApp.exe
 D:\MET\2022\Term2\CS2\F)\LAb\01-SeqApp\01-SeqApp\obj\Debug\01-SeqApp.xml
 D:\MET\2022\Term2\CS2\F)\LAb\01-SeqApp\01-SeqApp\obj\Debug\01-SeqApp.pdb
+D:\MET\2022\Term2\CS2\FO\Rebo\CS2-FileOrganization\02-SequentialApp\01-SeqApp\bin\Debug\01-SeqApp.exe.config
+D:\MET\2022\Term2\CS2\FO\Rebo\CS2-FileOrganization\02-SequentialApp\01-SeqApp\obj\Debug\01-SeqApp.exe
+D:\MET\2022\Term2\CS2\FO\Rebo\CS2-FileOrganization\02-SequentialApp\01-SeqApp\obj\Debug\01-SeqApp.xml
+D:\MET\2022\Term2\CS2\FO\Rebo\CS2-FileOrganization\02-SequentialApp\01-SeqApp\obj\Debug\01-SeqApp.pdb
+D:\MET\2022\Term2\CS2\FO\Rebo\CS2-FileOrganization\02-SequentialApp\01-SeqApp\bin\Debug\01-SeqApp.exe
+D:\MET\2022\Term2\CS2\FO\Rebo\CS2-FileOrganization\02-SequentialApp\01-SeqApp\bin\Debug\01-SeqApp.pdb
+D:\MET\2022\Term2\CS2\FO\Rebo\CS2-FileOrganization\02-SequentialApp\01-SeqApp\bin\Debug\01-SeqApp.xml
+D:\MET\2022\Term2\CS2\FO\Rebo\CS2-FileOrganization\02-SequentialApp\01-SeqApp\obj\Debug\_01_SeqApp.Form1.resources
+D:\MET\2022\Term2\CS2\FO\Rebo\CS2-FileOrganization\02-SequentialApp\01-SeqApp\obj\Debug\_01_SeqApp.Resources.resources
+D:\MET\2022\Term2\CS2\FO\Rebo\CS2-FileOrganization\02-SequentialApp\01-SeqApp\obj\Debug\01-SeqApp.vbproj.GenerateResource.Cache
+D:\MET\2022\Term2\CS2\FO\Rebo\CS2-FileOrganization\02-SequentialApp\01-SeqApp\obj\Debug\01-SeqApp.vbprojResolveAssemblyReference.cache
