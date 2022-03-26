@@ -1,5 +1,7 @@
 ﻿Public Class Form1
+
     Dim position As Integer
+
     Dim num As Integer
     Dim nam As String
     Dim unit As Integer
@@ -62,7 +64,7 @@
     Private Sub Button2_Click(sender As Object, e As EventArgs) Handles Button2.Click
         view()
     End Sub
-   
+
     Sub view()
         Dim count As Integer
         FileOpen(1, "d:\a.txt", OpenMode.Input)
@@ -144,5 +146,9 @@
     End Sub
     Private Sub Button4_MouseUp(sender As Object, e As MouseEventArgs) Handles Button4.MouseUp
         view()
+    End Sub
+
+    Private Sub Form1_Load(sender As Object, e As EventArgs) Handles MyBase.Load
+
     End Sub
 End Class

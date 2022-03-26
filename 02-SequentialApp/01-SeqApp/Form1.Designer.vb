@@ -184,12 +184,12 @@ Partial Class Form1
         '
         Me.ListBox1.FormattingEnabled = True
         Me.ListBox1.ItemHeight = 20
-        Me.ListBox1.Location = New System.Drawing.Point(103, 324)
+        Me.ListBox1.Location = New System.Drawing.Point(62, 300)
         Me.ListBox1.Margin = New System.Windows.Forms.Padding(4)
         Me.ListBox1.MultiColumn = True
         Me.ListBox1.Name = "ListBox1"
         Me.ListBox1.ScrollAlwaysVisible = True
-        Me.ListBox1.Size = New System.Drawing.Size(809, 164)
+        Me.ListBox1.Size = New System.Drawing.Size(912, 224)
         Me.ListBox1.TabIndex = 15
         '
         'Button4
