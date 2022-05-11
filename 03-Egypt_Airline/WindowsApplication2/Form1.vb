@@ -78,8 +78,6 @@ Public Class Form1
     End Sub
 
     Private Sub Button61_Click(sender As Object, e As EventArgs)
-
-
     End Sub
     Sub clear()
         TextBox1.Clear()
@@ -127,8 +125,6 @@ Public Class Form1
         TextBox8.Clear()
         TextBox9.Clear()
         Label10.Text = ""
-
-
     End Sub
 
     Private Sub Button59_Click(sender As Object, e As EventArgs) Handles Button59.Click
@@ -167,6 +163,8 @@ Public Class Form1
                 prec.passenger(j) = ""
                 prec.phone(j) = ""
                 prec.address(j) = ""
+                s = Val(TextBox1.Text)
+                FilePut(1, prec, s)
             ElseIf x = 2 Then
                 button(j).BackColor = Color.Orange
 
