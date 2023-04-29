@@ -1,7 +1,7 @@
 ﻿Public Class Form1
 
     Dim position As Integer
-
+    'position=loc(1)
     Dim num As Integer
     Dim nam As String
     Dim unit As Integer
@@ -16,6 +16,7 @@
         money_now = Val(TextBox4.Text)
         sale_price = Val(TextBox5.Text)
         total_price = Val(TextBox6.Text)
+
         WriteLine(1, num, nam, unit, money_now, sale_price, total_price)
         FileClose(1)
         MsgBox("Data Added")
@@ -40,8 +41,10 @@
             Input(1, money_now)
             Input(1, sale_price)
             Input(1, total_price)
+
             If num = Val(TextBox1.Text) Then
                 position = Loc(1)
+
                 nam = TextBox2.Text
                 unit = Val(TextBox3.Text)
                 money_now = Val(TextBox4.Text)
@@ -49,6 +52,7 @@
                 total_price = Val(TextBox6.Text)
                 WriteLine(2, num, nam, unit, money_now, sale_price, total_price)
             End If
+
             If num <> Val(TextBox1.Text) Then
                 position = Loc(1)
                 WriteLine(2, num, nam, unit, money_now, sale_price, total_price)
@@ -64,6 +68,7 @@
     Private Sub Button2_Click(sender As Object, e As EventArgs) Handles Button2.Click
         view()
     End Sub
+
 
     Sub view()
         Dim count As Integer
@@ -149,6 +154,16 @@
     End Sub
 
     Private Sub Form1_Load(sender As Object, e As EventArgs) Handles MyBase.Load
+
+    End Sub
+
+    Private Sub Button4_GotFocus(sender As Object, e As EventArgs) Handles Button4.GotFocus
+
+
+
+    End Sub
+
+    Private Sub Button4_MouseHover(sender As Object, e As EventArgs) Handles Button4.MouseHover
 
     End Sub
 End Class

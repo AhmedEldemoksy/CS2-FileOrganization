@@ -152,7 +152,7 @@ Partial Class Form1
         '
         'Button1
         '
-        Me.Button1.Location = New System.Drawing.Point(850, 556)
+        Me.Button1.Location = New System.Drawing.Point(848, 556)
         Me.Button1.Margin = New System.Windows.Forms.Padding(4)
         Me.Button1.Name = "Button1"
         Me.Button1.Size = New System.Drawing.Size(157, 60)
@@ -184,7 +184,7 @@ Partial Class Form1
         '
         Me.ListBox1.FormattingEnabled = True
         Me.ListBox1.ItemHeight = 20
-        Me.ListBox1.Location = New System.Drawing.Point(62, 300)
+        Me.ListBox1.Location = New System.Drawing.Point(40, 324)
         Me.ListBox1.Margin = New System.Windows.Forms.Padding(4)
         Me.ListBox1.MultiColumn = True
         Me.ListBox1.Name = "ListBox1"
