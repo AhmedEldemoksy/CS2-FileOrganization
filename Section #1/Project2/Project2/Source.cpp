@@ -5,7 +5,7 @@
 using namespace std;
 void writeToFile(const string& filepath)
 {
-	ofstream outputFile(filepath); // Open file for writing
+	ofstream outputFile(filepath ,ios::app); // Open file for writing
 	if (!outputFile.is_open()) {
 		cerr << "Error opening file " << filepath << " for writing." << endl;
 		return;
