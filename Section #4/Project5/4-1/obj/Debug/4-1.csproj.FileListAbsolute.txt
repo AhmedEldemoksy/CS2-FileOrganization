@@ -1,9 +1,0 @@
-D:\MET\2023\Term-2\CS1\Database\Sec\4-1\4-1\bin\Debug\4-1.exe.config
-D:\MET\2023\Term-2\CS1\Database\Sec\4-1\4-1\bin\Debug\4-1.exe
-D:\MET\2023\Term-2\CS1\Database\Sec\4-1\4-1\bin\Debug\4-1.pdb
-D:\MET\2023\Term-2\CS1\Database\Sec\4-1\4-1\obj\Debug\4-1.csprojResolveAssemblyReference.cache
-D:\MET\2023\Term-2\CS1\Database\Sec\4-1\4-1\obj\Debug\_4_1.Form1.resources
-D:\MET\2023\Term-2\CS1\Database\Sec\4-1\4-1\obj\Debug\_4_1.Properties.Resources.resources
-D:\MET\2023\Term-2\CS1\Database\Sec\4-1\4-1\obj\Debug\4-1.csproj.GenerateResource.Cache
-D:\MET\2023\Term-2\CS1\Database\Sec\4-1\4-1\obj\Debug\4-1.exe
-D:\MET\2023\Term-2\CS1\Database\Sec\4-1\4-1\obj\Debug\4-1.pdb
