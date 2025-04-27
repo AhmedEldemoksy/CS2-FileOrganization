@@ -1,0 +1,9 @@
+D:\MET\2024\Term-2\FileOrg\Lab\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe.config
+D:\MET\2024\Term-2\FileOrg\Lab\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe
+D:\MET\2024\Term-2\FileOrg\Lab\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.pdb
+D:\MET\2024\Term-2\FileOrg\Lab\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.csprojResolveAssemblyReference.cache
+D:\MET\2024\Term-2\FileOrg\Lab\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.exe
+D:\MET\2024\Term-2\FileOrg\Lab\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.pdb
+D:\MET\2024\Term-2\FileOrg\CS2-FileOrganization\Section #6\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe.config
+D:\MET\2024\Term-2\FileOrg\CS2-FileOrganization\Section #6\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.exe
+D:\MET\2024\Term-2\FileOrg\CS2-FileOrganization\Section #6\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.pdb
